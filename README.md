@@ -123,7 +123,3 @@ Globetrotter-Guide/
 [GitHub](https://github.com/itssiddharthGit)
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
